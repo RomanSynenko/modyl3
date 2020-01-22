@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    background: #713271;
+}
+.navigation .menu-item{
+    display: inline-block;
+}
